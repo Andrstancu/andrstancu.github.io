@@ -1,3 +1,2 @@
 # andrstancu.github.io
-my place on GitHub.io
-check this out - I'm on the Internet!!
+_a real home on the Internet_ at www.andrstancu.github.io
