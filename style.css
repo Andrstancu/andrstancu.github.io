@@ -11,4 +11,7 @@ h1, h2, h3 {
   font-family: serif;
   font-weight: normal;
 }
+h1 {
+  line-height: 1em;
+}
 li {padding: 0.3em}
